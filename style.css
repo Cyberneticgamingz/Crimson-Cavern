@@ -1,0 +1,78 @@
+html {
+    height: 200%;
+}
+
+
+
+body {
+    background-color: black;
+    background-image: url(Image/1.1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    background-color: crimson;
+    height: 50px;
+    width: 1208px;
+}
+
+nav {
+    background-color: gray;
+   height: 50px;
+  width: 1208px; 
+  text-align: center;
+  padding-top: 30px;
+}
+
+
+main {
+    background-color: rgba(0, 0, 0, 0.336);
+   height: 400px;
+   text-align: center;
+   margin-top: 80px;
+   padding-top: 80px;
+   padding-left: 240px;
+   padding-right: 240px;
+}
+
+footer {
+    background-color: gray;
+    height: 110px;
+   width: 1208px; 
+   text-align: center;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: crimson;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: whitesmoke;
+    font-family: Arial;
+}
+
+a {
+    color: crimson;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+
+nav a {
+    text-decoration: none;
+    padding-right: 80px;
+    padding-left: 52px;
+}
